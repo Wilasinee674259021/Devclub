@@ -13,4 +13,5 @@ Simple PHP CRUD example project for DevClub.
 ## How to run
 1. Put files in `htdocs/DevClub` (XAMPP)
 2. Import `devclub.sql`
-3. Open http://localhost/DevClub/
+3. Open http://localhost/DevClub/index.php
+
